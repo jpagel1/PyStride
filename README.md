@@ -1,6 +1,8 @@
 # PyStride
 Automation Direct Stride IO Driver
 
+![alt text](https://cdn.automationdirect.com/images/products/medium/m_siomb12cdr.jpg)
+
 Simple Driver to Interface with Automation Direct's Stride IO
 
 Examples (see PyStrideClass for more):
